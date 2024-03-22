@@ -1,13 +1,9 @@
-# CureCrafter_Bioinformatics
+# GridMol
 - - - -
 ### v2.0 - 2024
 ### (C) Simpson College 2017
 - - - -
-
-> **Bioinformatics algorithm** 
-
 > Automated design of new molecules based on dataset of docked molecule
-
 - - - -
 
 ### GridMol Algorithm ###

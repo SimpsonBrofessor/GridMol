@@ -1,0 +1,38 @@
+# ----------------------------------------------------------
+#  SOFTWARE INFO
+# ----------------------------------------------------------
+Title: 'GEN MOL'
+Version: '2.0'
+
+
+# ----------------------------------------------------------
+#  DIRECTORIES
+# ----------------------------------------------------------
+Docked_Directory: 'Docked'
+Output_Directory: 'Output'
+Database_Directory: 'sqlite:///Database/straight.sqlite'
+# Database_Directory: 'sqlite:///Database/hexagon.sqlite'
+
+
+# ----------------------------------------------------------
+#  DATABASE
+# ----------------------------------------------------------
+Database_Create: False
+
+
+# ----------------------------------------------------------
+#  GRID
+# ----------------------------------------------------------
+Grid_Size: 1 # Anstroms
+
+Score_Threshold: 0.0 # Gibbs Free Energy
+
+Receptor:
+  Origin:
+    X: 0
+    Y: 0
+    Z: 0
+  Box_Size:
+    X: 10
+    Y: 10
+    Z: 10

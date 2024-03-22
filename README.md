@@ -61,7 +61,7 @@ NOTE: set config file for testing
 
 * Database: SQL database of parsed raw vina dock files
 * Docked: raw vina dock files
-* : module for applying algorithm for generating molecule
+* GridMol: module for applying algorithm for generating molecule
 * Output: algorithm generated molecule - PDB format
 * Setup: initializes program features - config file, database, console log
 

@@ -35,7 +35,6 @@ NOTE: change Database_Directory for testing
 * Config_Testing - valid config for testing
 
 Directories:
-- - - -
 * Docked_Directory: 'Folder Name for Importing Raw Vina Dock Files'
 * Output_Directory: 'Folder Name for Output Generated Molecule'
 * Database_Directory: 'Path for Storing SQL Database of Imported Docked Files'
